@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.51bdbf96.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.70c51ec4.css",
+    "main.js": "/static/js/main.13ced18a.js",
+    "static/media/UpStore.png": "/static/media/UpStore.014bc85e4817de4a83c6.png",
+    "static/media/FastDeal.png": "/static/media/FastDeal.892cec69a3abfdfaf212.png",
+    "static/media/ChotuBazaar.png": "/static/media/ChotuBazaar.0042471659670473dce0.png",
+    "static/media/home-main.png": "/static/media/home-main.4d53f67a67839da57bd9.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/prabhatk.png": "/static/media/prabhatk.7d54b175c4f154fd6e0a.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.51bdbf96.js.map": "/static/js/main.51bdbf96.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.70c51ec4.css.map": "/static/css/main.70c51ec4.css.map",
+    "main.13ced18a.js.map": "/static/js/main.13ced18a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.51bdbf96.js"
+    "static/css/main.70c51ec4.css",
+    "static/js/main.13ced18a.js"
   ]
 }
