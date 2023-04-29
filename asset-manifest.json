@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.70c51ec4.css",
-    "main.js": "/static/js/main.3ebc953f.js",
+    "main.js": "/static/js/main.a73d5393.js",
     "static/media/UpStore.png": "/static/media/UpStore.014bc85e4817de4a83c6.png",
     "static/media/GojoShop.png": "/static/media/GojoShop.acfbafe80d6318611cab.png",
     "static/media/FastDeal.png": "/static/media/FastDeal.892cec69a3abfdfaf212.png",
@@ -13,10 +13,10 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.70c51ec4.css.map": "/static/css/main.70c51ec4.css.map",
-    "main.3ebc953f.js.map": "/static/js/main.3ebc953f.js.map"
+    "main.a73d5393.js.map": "/static/js/main.a73d5393.js.map"
   },
   "entrypoints": [
     "static/css/main.70c51ec4.css",
-    "static/js/main.3ebc953f.js"
+    "static/js/main.a73d5393.js"
   ]
 }
